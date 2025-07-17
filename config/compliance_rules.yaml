@@ -1,0 +1,5 @@
+rules:
+  - name: licensing
+    description: Must comply with SPDX and avoid GPL
+  - name: lineage
+    description: Dataset must have IRB and consent

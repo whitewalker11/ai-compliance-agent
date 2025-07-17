@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message ComplianceRequest {
+  string model_name = 1;
+}
+
+message ComplianceResponse {
+  string result = 1;
+}
