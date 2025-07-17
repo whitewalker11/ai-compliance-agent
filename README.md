@@ -10,6 +10,11 @@ AI systems used in healthcare must adhere to strict regulatory standards. This t
 
 ---
 
+
+![Compliance Agent Demo](assets/demo.gif)
+
+
+
 ## ✅ Features
 
 - **License Validation**: Automatically verify that all dependencies have compatible licenses.
