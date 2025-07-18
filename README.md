@@ -6,7 +6,7 @@ This ADK agent automates regulatory compliance checks for open-source AI in medi
 
 ## 🔍 Overview
 
-AI systems used in healthcare must adhere to strict regulatory standards. This toolkit ensures AI components meet compliance requirements for safety, performance, and traceability.
+AI Compliance Agent is an open-source toolkit to help developers embed compliance, auditability, and regulatory alignment into AI systems from day one. It supports key tasks like data license validation, dataset traceability, risk mapping (e.g., ISO 14971), explainability with SHAP/LIME, and performance drift monitoring — making it easier to build safe, ethical, and regulation-ready AI for high-stakes domains like healthcare, finance, defense, and autonomous systems.
 
 ---
 
